@@ -1,0 +1,12 @@
+# Node / React
+frontend/node_modules
+frontend/build
+
+# Python / backend
+backend/venv
+__pycache__/
+*.pyc
+
+# VSCode / System files
+.vscode/
+.DS_Store
